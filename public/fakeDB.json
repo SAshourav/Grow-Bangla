@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Tomato",
+        "price": "40",
+        "id": "1",
+        "filter": "freshPick",
+        "quantity" : 1,
+        "category": "veg",
+        "img": "https://post.healthline.com/wp-content/uploads/2020/09/AN313-Tomatoes-732x549-Thumb-732x549.jpg"
+    },
+    {
+        "name": "Fulkopi",
+        "price": "40",
+        "id": "2",
+        "quantity" : 1,
+        "filter": "freshPick",
+        "category": "veg",
+        "img": "https://dtt1c9id3txwq.cloudfront.net/assets/images/001/200/136/original/3--Cauliflower_%28Ful_Kopi%29.jpg?1621246139"
+    },
+    {
+        "name": "Lal Shak",
+        "price": "40",
+        "id": "3",
+        "quantity" : 1,
+        "filter": "freshPick",
+        "category": "veg",
+        "img": "https://bazarmama.xyz/wp-content/uploads/2021/05/FD4B4C09.png"
+    },
+    {
+        "name": "Rui Mach",
+        "price": "40",
+        "id": "4",
+        "quantity" : 1,
+        "filter": "freshPick",
+        "category": "fish",
+        "img": "https://shop-bd.com/wp-content/uploads/2020/05/rui.png"
+    },
+    {
+        "name": "Alu",
+        "price": "40",
+        "id": "5",
+        "quantity" : 1,
+        "category": "veg",
+        "img": "src/images/tomato.jpg"
+    },
+    {
+        "name": "Morich",
+        "price": "40",
+        "id": "6",
+        "quantity" : 1,
+        "category": "veg",
+        "img": "src/images/tomato.jpg"
+    },
+    {
+        "name": "Apple",
+        "price": "40",
+        "id": "7",
+        "quantity" : 1,
+        "category": "fruit",
+        "img": "https://www.collinsdictionary.com/images/full/apple_158989157.jpg"
+    },
+    {
+        "name": "Orange",
+        "price": "40",
+        "id": "8",
+        "quantity" : 1,
+        "category": "fruit",
+        "img": "https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg"
+    },
+    {
+        "name": "Kodbel",
+        "price": "40",
+        "id": "9",
+        "quantity" : 1,
+        "category": "fruit",
+        "img": "https://api.nittabazar.com/resources/assets/images/product_images/1635918270.Wood%20Apple%20Big%20Size%20(Kodbel).webp"
+    },
+    {
+        "name": "Mango",
+        "price": "40",
+        "id": "10",
+        "quantity" : 1,
+        "category": "fruit",
+        "img": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/7501061_mango%20varieties%20in%20Bangladesh.jpg"
+    }
+]

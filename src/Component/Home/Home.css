@@ -1,0 +1,10 @@
+.fresh-pick, .fruit{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+.home{
+    margin: 0px 10px 0px 10px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}

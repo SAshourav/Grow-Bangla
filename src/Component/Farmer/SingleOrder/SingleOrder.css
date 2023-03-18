@@ -1,0 +1,21 @@
+.single-order-container {
+    align-items: center;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.single-order-container:hover {
+    background-color: #eaeaea;
+}
+
+.accept-order-details {
+    flex-grow: 1;
+    margin-right: 20px;
+}
+
+.btn-container {
+    flex-shrink: 0;
+}

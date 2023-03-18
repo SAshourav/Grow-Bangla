@@ -1,0 +1,22 @@
+.single-product-container{
+    border: 1px solid lightseagreen;
+    padding: 10px;
+    max-height: 320px;
+    background-color: lightblue;
+}
+.single-product-container img{
+    width: 200px;
+    height: 150px;
+}
+.btn-container{
+    display: flex;
+}
+.quantity-container{
+    margin-right: 25px;
+    margin-left: 50px;
+}
+.qun{
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
